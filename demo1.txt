@@ -5,3 +5,4 @@ sex = nan
 name = lisi 
 age = 19
 sex = nv
+hobby = play
