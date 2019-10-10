@@ -1,4 +1,4 @@
-name = lisi
+name = zhangsan
 age = 18
 sex = nan
 hobby = sing
@@ -12,3 +12,6 @@ name = wangwu
 age = 20
 sex = mimi
 hobyy = None
+
+name = 1111
+age = 22
