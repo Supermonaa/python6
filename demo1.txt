@@ -15,3 +15,5 @@ hobyy = None
 
 name = 1111
 age = 22
+sex = weizhi
+hobby = asd
