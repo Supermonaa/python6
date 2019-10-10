@@ -1,6 +1,7 @@
 name = zhangsan
 age = 18
 sex = nan
+hobby = sing
 
 name = lisi 
 age = 19
