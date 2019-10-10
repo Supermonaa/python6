@@ -1,4 +1,4 @@
-name = zhangsan
+name = lisi
 age = 18
 sex = nan
 hobby = sing
