@@ -7,3 +7,8 @@ name = lisi
 age = 19
 sex = nv
 hobby = play
+
+name = wangwu
+age = 20
+sex = mimi
+hobyy = None
